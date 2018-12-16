@@ -8,7 +8,7 @@
     "raspi-io": "9.0.x"
   },
   "devDependencies": {
-    "eslint": "^5.9.x"
+    "eslint": "5.9.x"
   },
   "engines": {
     "node": "10.14.x"
@@ -32,5 +32,5 @@
     "lint": "eslint src/",
     "start": "node src/server.js"
   },
-  "version": "0.0.0"
+  "version": "0.1.0"
 }
