@@ -1,0 +1,23 @@
+# OSX
+.DS_Store*
+Icon?
+._*
+
+# Windows
+Thumbs.db
+thumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# NPM
+node_modules
+*.log
+*.gz
+
+# config files
+/config/*
+!/config/default.js
+!/config/sequelize.js
